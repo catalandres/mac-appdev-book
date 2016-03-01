@@ -54,7 +54,7 @@ The data representation should stay an implementation detail. I may want to swit
 
 In short, using Core Data in the most convenient way violates a lot of the principles I learned to adhere to. These principles help me keep the Word Counter code base clean and maintainable.
 
-The basic architecture I want to advocate is sometimes called "[Clean Architecture][cleanar]", sometimes "[Hexagonal][hexagonal]". There a differences between these two, but I won't be academic about this. This little book will present you my interpretation on these things first and point you into the right direction to find out more afterwards.
+The basic architecture I want to advocate is sometimes called "[Clean Architecture][cleanar]", sometimes "[Hexagonal][hexagonal]". There are differences between these two, but I won't be academic about this. This little book will present you my interpretation on these things first and point you into the right direction to find out more afterwards.
 
 Keep in mind I am still making sense of this myself. I bet I get a concept or two wrong.
 
